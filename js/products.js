@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 1,
             name: 'Wireless Bluetooth Headphones',
             price: 79.99,
-            image: 'https://via.placeholder.com/300',
+            image: "/images/imagecheck.jpeg",
             category: 'electronics',
             rating: 4.5,
             description: 'High-quality wireless headphones with noise cancellation and long battery life.'
