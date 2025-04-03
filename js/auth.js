@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', function() {
             }
             
             // Check credentials (in a real app, this would be a server request)
-            if (email === 'nivethanraajt@gmail.com' && password === 'nive123') {
+            if ((email === 'nivethanraajt@gmail.com' && password === 'nive123')||(email === 'niv@gmail.com' && password === 'nive123')) {
                 // Store login state
                 localStorage.setItem('isLoggedIn', 'true');
                 

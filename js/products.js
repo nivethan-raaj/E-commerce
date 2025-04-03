@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 1,
             name: 'Wireless Bluetooth Headphones',
             price: 79.99,
-            image: "/images/imagecheck.jpeg",
+            image: "/images/bluetooth.jpg",
             category: 'electronics',
             rating: 4.5,
             description: 'High-quality wireless headphones with noise cancellation and long battery life.'
@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 2,
             name: 'Men\'s Casual T-Shirt',
             price: 24.99,
-            image: 'https://via.placeholder.com/300',
+            image: "/images/tshirt.jpg",
             category: 'clothing',
             rating: 4.2,
             description: 'Comfortable cotton t-shirt for everyday wear.'
@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 3,
             name: 'Smart Home Speaker',
             price: 129.99,
-            image: 'https://via.placeholder.com/300',
+            image: "/images/seaker.jpeg",
             category: 'electronics',
             rating: 4.7,
             description: 'Voice-controlled smart speaker with premium sound quality.'
@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 4,
             name: 'Non-Stick Cooking Set',
             price: 89.99,
-            image: 'https://via.placeholder.com/300',
+            image: "/images/cooking.jpeg",
             category: 'home',
             rating: 4.3,
             description: 'Complete set of non-stick cookware for your kitchen.'
@@ -43,7 +43,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 5,
             name: 'Facial Cleanser',
             price: 19.99,
-            image: 'https://via.placeholder.com/300',
+            image: "/images/cleanser.jpeg",
             category: 'beauty',
             rating: 4.6,
             description: 'Gentle facial cleanser for all skin types.'
@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 6,
             name: 'Women\'s Running Shoes',
             price: 69.99,
-            image: 'https://via.placeholder.com/300',
+            image: "/images/shoe.jpeg",
             category: 'clothing',
             rating: 4.4,
             description: 'Lightweight and comfortable running shoes for women.'
@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 7,
             name: 'Stainless Steel Water Bottle',
             price: 24.99,
-            image: 'https://via.placeholder.com/300',
+            image: "/images/bottle.jpg",
             category: 'home',
             rating: 4.8,
             description: 'Insulated water bottle that keeps drinks cold for 24 hours.'
@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
             id: 8,
             name: 'Smartphone',
             price: 699.99,
-            image: 'https://via.placeholder.com/300',
+            image: "/images/cell.jpeg",
             category: 'electronics',
             rating: 4.9,
             description: 'Latest smartphone with advanced camera and long battery life.'
